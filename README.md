@@ -1,10 +1,10 @@
 # 🌟 Stark-Crypto-UPI - Cross-Border Payment Intent Solver
 
-StarkFPI is an innovative payment solution built as a Telegram Mini App, leveraging Starknet to bridge the gap between international travelers and local UPI payments in India. By integrating directly with Telegram's 1 billion+ user base and utilizing AI agents and ZK proofs, our platform enables seamless cross-border transactions while ensuring security and dispute resolution.
+Stark-Crypto-UPI is an innovative payment solution built as a Telegram Mini App, leveraging Starknet to bridge the gap between international travelers and local UPI payments in India. By integrating directly with Telegram's 1 billion+ user base and utilizing AI agents and ZK proofs, our platform enables seamless cross-border transactions while ensuring security and dispute resolution.
 
 ## 🚀 Project Overview
 
-StarkFPI solves a crucial problem for foreign travelers in India who want to use the ubiquitous UPI payment system but don't have Indian Rupees (INR). Our platform acts as a decentralized intent solver marketplace, similar to Uber's architecture, where local solvers can fulfill payment intents and receive Starknet tokens in return.
+Stark-Crypto-UPI solves a crucial problem for foreign travelers in India who want to use the ubiquitous UPI payment system but don't have Indian Rupees (INR). Our platform acts as a decentralized intent solver marketplace, similar to Uber's architecture, where local solvers can fulfill payment intents and receive Starknet tokens in return.
 
 ## 📈 Key Features
 
@@ -98,15 +98,3 @@ StarkFPI solves a crucial problem for foreign travelers in India who want to use
   * Global payment intent solving network
   * Multi-chain support
   * Comprehensive financial services platform
-
-## 🤝 Team & Contributions
-
-* 🧑‍💻 **Om Santoshwar**: Lead Architect
-  * System architecture design
-  * Technical implementation
-  * Project coordination
-
-* 🔧 **Ayush Ranjan**: Blockchain & AI Developer
-  * Smart contract development
-  * AI agent implementation
-  * ZK proof integration
