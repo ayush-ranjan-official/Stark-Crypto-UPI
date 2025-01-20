@@ -1,4 +1,4 @@
-# 🌟 StarkFPI - Cross-Border Payment Intent Solver
+# 🌟 Stark-Crypto-UPI - Cross-Border Payment Intent Solver
 
 StarkFPI is an innovative payment solution built as a Telegram Mini App, leveraging Starknet to bridge the gap between international travelers and local UPI payments in India. By integrating directly with Telegram's 1 billion+ user base and utilizing AI agents and ZK proofs, our platform enables seamless cross-border transactions while ensuring security and dispute resolution.
 
